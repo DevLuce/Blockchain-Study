@@ -31,7 +31,7 @@ def addOperation(a, b, p, q, m):
 # y^2 = x^3 + 2 * x + 2 mod 127
 a = 2
 b = 2
-m = 127 # Prime number 여야 함
+m = 127 # Prime number 이어야 함
 P = (5, 1)
 Q = P
 
